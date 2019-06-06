@@ -1,9 +1,14 @@
 # Projekt edukacyjny Koła Naukowego Matematyki Statystycznej "Gauss" Politechniki Wrocławskiej
 W składzie:
+
 -Sebastian Kupisiewicz(Tutor)
+
 -Patrycja Studzienna
+
 -Paweł Bogdan
+
 -Karolina Schmidt
+
 -Tomasz Sołtysiak
 
 Naszym zadaniem było rozwiązanie problemu klasyfikacji binarnej na wybranym zbiorze danych.
