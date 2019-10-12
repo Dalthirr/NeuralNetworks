@@ -1,7 +1,7 @@
 # Projekt edukacyjny Koła Naukowego Matematyki Statystycznej "Gauss" Politechniki Wrocławskiej
 W składzie:
 
--Sebastian Kupisiewicz(Tutor)
+-Sebastian Kupisiewicz
 
 -Patrycja Studzienna
 
