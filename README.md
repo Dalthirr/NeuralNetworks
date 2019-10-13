@@ -24,8 +24,6 @@ Zadanie to podzieliliśmy na dwa etapy właściwe:
 -Właściwe zbudowanie modelu z dostrojonymi hiperparametrami tak, aby otrzymać jak najlepszy wynik względem naszej metryki.
 
 Planowane poprawki bądź rozwinięcia repozytorium na najbliższy czas:
-1. Rozdzielenie modelów w osobny kod, wyeksportowanie ich i przystosowanie do szybkiego importowania wedle potrzeby
-2. Scalenie notebooka EDA i model w jeden - dodanie algorytmu krosswalidacji w celu porównania i wyłonienia najlepszego modelu
-3. poprawienie błędów w EDA
-4. Przetłumaczenie całego repozytorium na język angielski
+1. Zapisanie wytrenowanych modelów do pliku.
+2. Porównanie wytrenowanych modeli - algorytm krosswalidacji w celu porównania i wyłonienia najlepszego modelu
 
