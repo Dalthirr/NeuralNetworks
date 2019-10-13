@@ -26,7 +26,6 @@ Zadanie to podzieliliśmy na dwa etapy właściwe:
 Planowane poprawki bądź rozwinięcia repozytorium na najbliższy czas:
 1. Rozdzielenie modelów w osobny kod, wyeksportowanie ich i przystosowanie do szybkiego importowania wedle potrzeby
 2. Scalenie notebooka EDA i model w jeden - dodanie algorytmu krosswalidacji w celu porównania i wyłonienia najlepszego modelu
-3. Poprawienie kodu względem standardu PEP 8
-4. poprawienie błędów w EDA
-5. Przetłumaczenie całego repozytorium na język angielski
+3. poprawienie błędów w EDA
+4. Przetłumaczenie całego repozytorium na język angielski
 
