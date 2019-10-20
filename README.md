@@ -22,8 +22,3 @@ Zadanie to podzieliliśmy na dwa etapy właściwe:
 -Exploratory Data Analysis w celu jak najlepszego zrozumienia zbioru danych przed wrzuceniem go w sieć,
 
 -Właściwe zbudowanie modelu z dostrojonymi hiperparametrami tak, aby otrzymać jak najlepszy wynik względem naszej metryki.
-
-Planowane poprawki bądź rozwinięcia repozytorium na najbliższy czas:
-1. Zapisanie wytrenowanych modelów do pliku.
-2. Porównanie wytrenowanych modeli - algorytm krosswalidacji w celu porównania i wyłonienia najlepszego modelu
-
