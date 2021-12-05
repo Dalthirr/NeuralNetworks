@@ -3,9 +3,13 @@
 W składzie:
 
 -Sebastian Kupisiewicz
+
 -Patrycja Studzienna
+
 -Paweł Bogdan
+
 -Karolina Schmidt
+
 -Tomasz Sołtysiak
 
 Naszym zadaniem było rozwiązanie problemu klasyfikacji binarnej na wybranym zbiorze danych.
