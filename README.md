@@ -17,6 +17,6 @@ Zbiór danych:
 
 https://www.kaggle.com/shrutimechlearn/churn-modelling?fbclid=IwAR2NuWUXRCgfMwXYxALJIq3cWCLyHXmga4hL1M46vs52vq9uhxVSS49enwE
 
-# Projekt został wykorzystany do prezentacji na Dniach Matematyki Politechniki Wrocławskiej (26.10.19r), w poprawkach i adaptacji projektu na rzecz prezentacji udział brali również:
+Projekt został wykorzystany do prezentacji na Dniach Matematyki Politechniki Wrocławskiej (26.10.19r), w poprawkach i adaptacji projektu na rzecz prezentacji udział brali również:
 
 -Ania Kudela
